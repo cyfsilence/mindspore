@@ -1,0 +1,2 @@
+python train.py --data_path=D:\MindSpore\MNIST_Data;
+python eval.py --data_path=D:\MindSpore\MNIST_Data --ckpt_path=checkpoint_lenet-1_1875.ckpt;
